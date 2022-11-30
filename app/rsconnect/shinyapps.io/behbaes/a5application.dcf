@@ -1,0 +1,13 @@
+name: a5application
+title: a5application
+username:
+account: behbaes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7769539
+bundleId: 6571282
+url: https://behbaes.shinyapps.io/a5application/
+when: 1669793325.02403
+lastSyncTime: 1669793325.02404
+asMultiple: FALSE
+asStatic: FALSE
